@@ -2,7 +2,7 @@
 <h1>Welcome to Aryan Darode's Website</h1>
 
 <p>I am a Python Developer and Student.</p>
-<p>I am Intrested in AIML Field</p>
+<p>I am Interested in AIML Field</p>
 <h2>About Me</h2>
 <p>
 I create Python games, automation scripts.
